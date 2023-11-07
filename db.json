@@ -1,0 +1,29 @@
+{
+  "loginDB": {
+    "id": 1,
+    "email": "mukesh123@gmail.com",
+    "password": "123456"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Todos": [
+    {
+      "id": 545,
+      "title": "buy book 3",
+      "description": "520rs"
+    },
+    {
+      "id": 548,
+      "title": "buy book 34",
+      "description": "520rs"
+    }
+  ]
+}

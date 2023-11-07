@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "SemplicitaPro";
+  src: local("SemplicitaPro"),
+    url("../assets//fonts/SemplicitaPro.otf") format("opentype");
+}
+
+* {
+  margin: 0;
+  font-family: SemplicitaPro;
+}
